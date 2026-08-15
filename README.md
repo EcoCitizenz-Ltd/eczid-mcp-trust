@@ -1,5 +1,7 @@
 # ECZ-ID MCP Trust
 
+![ECZ-ID MCP Trust](assets/eczid-mcp-trust-hero.png)
+
 **See what your MCP servers are configured to do.**
 
 Official public product and documentation home for **ECZ-ID MCP Trust**.

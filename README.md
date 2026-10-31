@@ -6,7 +6,7 @@
 
 Official public product and documentation home for **ECZ-ID MCP Trust**.
 
-[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ecocitizenz.eczid-mcp-trust) | [Open VSX](https://open-vsx.org/extension/ecocitizenz/eczid-mcp-trust) | [Product page](https://developers.ecocitizenz.com/mcp-trust/) | [Developer Trust suite](https://developers.ecocitizenz.com/developer-trust/)
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ecocitizenz.eczid-mcp-trust) | [Open VSX](https://open-vsx.org/extension/ecocitizenz/eczid-mcp-trust) | [Product page](https://developers.ecocitizenz.com/mcp-trust/) | [Get a free MCP Passport](https://developers.ecocitizenz.com/quickstarts/mcp/?utm_source=github&utm_medium=repository&utm_campaign=mcp-trust&utm_content=free-passport) | [Developer Trust suite](https://developers.ecocitizenz.com/developer-trust/)
 
 > Extension binaries are distributed through the marketplaces above. This repository is the official public product/documentation home and does not imply that proprietary extension source code is published here.
 
@@ -29,6 +29,14 @@ Current public documentation describes Community capability including:
 For current shipped capability, pricing, and plan availability use the canonical product page:
 
 https://developers.ecocitizenz.com/mcp-trust/
+
+## Free MCP identity
+
+If you operate an MCP server, one logical server can receive one free ECZ-ID MCP Passport. The live public journey also creates a free Business Passport when the organisation does not already have one; no payment is taken for the free Passport journey.
+
+[Start with the MCP Passport quickstart →](https://developers.ecocitizenz.com/quickstarts/mcp/?utm_source=github&utm_medium=repository&utm_campaign=mcp-trust&utm_content=identity)
+
+The Passport provides identity and a public location for re-checkable current state. It is not a claim that the server is safe, approved, certified or compliant.
 
 ## Trust boundary
 
